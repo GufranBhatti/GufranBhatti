@@ -1,8 +1,8 @@
 ![github](https://user-images.githubusercontent.com/58569042/215321193-20815cdc-d2fb-4a75-b708-701be6bd535c.png)
 
-<p align="center">
+<h1 align="center">
 Hi there, 👋 I am Gufran Bhatti.
-</p># 
+</h1># 
 #### I am a developer, a teacher, love to travel, and a cricket and football lover.
 
 # 🌐 Socials
