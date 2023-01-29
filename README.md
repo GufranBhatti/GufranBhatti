@@ -1,5 +1,5 @@
 # Hi there, 👋 I am Gufran Bhatti.
-### I am a developer, a teacher, and a cricket and football lover.
+##### I am a developer, a teacher, and a cricket and football lover.
 
 # 🌐 Socials
 
