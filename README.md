@@ -2,7 +2,7 @@
 #### I am a developer, a teacher, and a cricket and football lover.
 
 # 🌐 Socials
-<a href=”https://www.linkedin.com/in/gufran-bhatti-80568822a/"><img align=”left” src=”C:\Users\Gufran bhatti\Downloads\linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/gufran-bhatti-80568822a/"><img align=”left” src=”C:\Users\Gufran bhatti\Downloads\linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
 
 <!--
