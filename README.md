@@ -1,7 +1,7 @@
 ![github](https://user-images.githubusercontent.com/58569042/215321193-20815cdc-d2fb-4a75-b708-701be6bd535c.png)
 
 <h1 align="center">
-Hi there, 👋 I am Gufran Bhatti.
+Hi there, 👋 I am Gufran Bhatti from 🇵🇰.
 </h1>
 <h4 align = "center">
 I am a developer, a teacher, love to travel, and a cricket and football lover.
@@ -19,7 +19,8 @@ I am a developer, a teacher, love to travel, and a cricket and football lover.
 * FYP2
 * House Prices - Advanced Regression Techniques (kaggle compitition)
 
-# 🧑‍💻 Languages and Tools
+# 💻 Languages and Tools
+
 
 <!--
 **GufranBhatti/GufranBhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
