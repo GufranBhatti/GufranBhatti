@@ -12,7 +12,7 @@ I am a developer, a teacher, love to travel, and a cricket and football lover.
 <a href="https://www.instagram.com/gufran_bhatti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Gufran Bhatti | Instagram" width="21px"/></a>
 ,
 # 🌱 I’m currently learning 
-. SQL for data science
+* SQL for data science
 
 <!--
 **GufranBhatti/GufranBhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
