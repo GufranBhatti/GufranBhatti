@@ -18,6 +18,9 @@ I am a developer, a teacher, love to travel, and a cricket and football lover.
 # 🔭 I’m currently working on
 * FYP2
 * House Prices - Advanced Regression Techniques (kaggle compitition)
+
+# 🧑‍💻 Languages and Tools
+
 <!--
 **GufranBhatti/GufranBhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
