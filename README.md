@@ -22,7 +22,7 @@ I am a developer, a teacher, love to travel, and a cricket🏏 and football⚽ l
 # 💻 Languages and Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
 ![](https://img.shields.io/badge/Lib-Tensorflow-informational?style=flat&logo=Tensorflow&color=E34F26)
-![](https://img.shields.io/badge/Lib-Scikit--Learn-informational?style=flat&logo=Scikit--Learn&color=E34F26)
+![](https://img.shields.io/badge/Lib-ScikitLearn-informational?style=flat&logo=ScikitLearn&color=E34F26)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=764ABC)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&color=CC342D)
