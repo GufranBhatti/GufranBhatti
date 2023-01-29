@@ -22,10 +22,10 @@ I am a developer, a teacher, love to travel, and a cricket🏏 and football⚽ l
 # 💻 Languages and Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JupyterNotebook-informational?style=flat&logo=JupyterNotebook&color=CC0000)
+![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=Tensorflow&color=E34F26)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=764ABC)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Dataspell-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-Pycharm-informational?style=flat&logo=SQLite&color=003B57)
 </br>
