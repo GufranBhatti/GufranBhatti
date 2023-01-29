@@ -20,14 +20,14 @@ I am a developer, a teacher, love to travel, and a cricket🏏 and football⚽ l
 * House Prices - Advanced Regression Techniques (kaggle compitition)
 
 # 💻 Languages and Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=Ruby&color=CC342D)
+![](https://img.shields.io/badge/Code-JupyterNotebook-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
+![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-Dataspell-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-Pycharm-informational?style=flat&logo=SQLite&color=003B57)
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
