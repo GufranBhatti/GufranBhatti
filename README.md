@@ -24,13 +24,13 @@ I am a developer, a teacher, love to travel, and a cricket🏏 and football⚽ l
 ![](https://img.shields.io/badge/Lib-Tensorflow-informational?style=flat&logo=Tensorflow&color=E34F26)
 ![](https://img.shields.io/badge/Lib-ScikitLearn-informational?style=flat&logo=ScikitLearn&color=E34F26)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=764ABC)
-![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=JAVA&color=F7DF1E)
+![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&color=CC342D)
 
 </br>
 
 ![](https://img.shields.io/badge/IDE-JupyterNotebook-informational?style=flat&logo=JupyterNotebook&color=CC0000)
-![](https://img.shields.io/badge/IDE-DataSpell-informational?style=flat&logo=DataSpell&color=336791)
+![](https://img.shields.io/badge/IDE-Dataspell-informational?style=flat&logo=Dataspell&color=336791)
 ![](https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=VisualStudio&color=7952B3)
 ![](https://img.shields.io/badge/IDE-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&color=1572B6)
 ![](https://img.shields.io/badge/IDE-intelliJ-informational?style=flat&logo=intelliJ&color=DB7093)
