@@ -2,8 +2,10 @@
 
 <h1 align="center">
 Hi there, 👋 I am Gufran Bhatti.
-</h1># 
-#### I am a developer, a teacher, love to travel, and a cricket and football lover.
+</h1>
+<h4 align = "center">
+I am a developer, a teacher, love to travel, and a cricket and football lover.
+</h4> 
 
 # 🌐 Socials
 
