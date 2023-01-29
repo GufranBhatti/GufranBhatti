@@ -10,8 +10,7 @@ I am a developer, a teacher, love to travel, and a cricket and football lover.
 # 🌐 Socials
 <a href="https://www.linkedin.com/in/gufran-bhatti-80568822a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Gufran Bhatti | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/gufran_bhatti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Gufran Bhatti | Instagram" width="21px"/></a>
-
-
+\n
 # 🌱 I’m currently learning 
 . SQL for data science
 
