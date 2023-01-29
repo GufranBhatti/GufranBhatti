@@ -25,7 +25,7 @@ I am a developer, a teacher, love to travel, and a cricket🏏 and football⚽ l
 ![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=Tensorflow&color=E34F26)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=764ABC)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=F7DF1E)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=CSharp&color=CC342D)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=C#&color=CC342D)
 ![](https://img.shields.io/badge/Code-DataSpell-informational?style=flat&logo=DataSpell&color=336791)
 ![](https://img.shields.io/badge/Code-Pycharm-informational?style=flat&logo=SQLite&color=003B57)
 </br>
