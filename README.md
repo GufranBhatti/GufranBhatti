@@ -30,9 +30,9 @@ I am a developer, a teacher, love to travel, and a cricket🏏 and football⚽ l
 ![](https://img.shields.io/badge/Code-Pycharm-informational?style=flat&logo=Pycharm&color=003B57)
 </br>
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+![](https://img.shields.io/badge/Style-VisualStudio-informational?style=flat&logo=VisualStudio&color=7952B3)
+![](https://img.shields.io/badge/Style-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&color=1572B6)
+![](https://img.shields.io/badge/Style-IntelliJ-informational?style=flat&logo=IntelliJ&color=DB7093)
 
 
 </br>
