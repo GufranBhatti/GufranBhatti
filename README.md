@@ -20,7 +20,7 @@ I am a developer, a teacher, love to travel, and a cricket🏏 and football⚽ l
 * House Prices - Advanced Regression Techniques (kaggle compitition)
 
 # 💻 Languages and Tools
-![image](https://user-images.githubusercontent.com/58569042/215323358-ba5a2e9a-8762-4bbd-a35e-18a8b100b474.png)
+Python
 
 
 <!--
