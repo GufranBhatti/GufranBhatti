@@ -20,7 +20,7 @@ I am a developer, a teacher, love to travel, and a cricket🏏 and football⚽ l
 * House Prices - Advanced Regression Techniques (kaggle compitition)
 
 # 💻 Languages and Tools
-HTML5 Postgres
+https://img.shields.io/endpoint?url=<URL>&style<STYLE>
 
 
 <!--
