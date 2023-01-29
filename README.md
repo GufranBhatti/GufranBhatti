@@ -8,7 +8,7 @@ I am a developer, a teacher, love to travel, and a cricket and football lover.
 </h4> 
 
 # 🌐 Socials
-<a href=”https://www.linkedin.com/in/gufran-bhatti-80568822a/"><img align=”left” src=”https://github.com/GufranBhatti/GufranBhatti/blob/main/Images/icons8-linkedin-circled.svg" alt=”Gufran Bhatti | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 <!--
 **GufranBhatti/GufranBhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
