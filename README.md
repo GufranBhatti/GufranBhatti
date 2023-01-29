@@ -4,7 +4,7 @@
 Hi there, 👋 I am Gufran Bhatti from (🇵🇰).
 </h1>
 <h4 align = "center">
-I am a developer💻, a teacher, love to travel🌍, and a cricket🏏 and football⚽ lover.
+I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket🏏 and football⚽ lover.
 </h4> 
 
 # 🌐 Socials
