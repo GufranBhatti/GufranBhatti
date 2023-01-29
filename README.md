@@ -23,6 +23,7 @@ I am a developer, a teacher, love to travel, and a cricket🏏 and football⚽ l
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
 ![](https://img.shields.io/badge/Lib-Tensorflow-informational?style=flat&logo=Tensorflow&color=E34F26)
 ![](https://img.shields.io/badge/Lib-ScikitLearn-informational?style=flat&logo=ScikitLearn&color=E34F26)
+![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=Pandas&color=E34F26)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=764ABC)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&color=CC342D)
@@ -41,10 +42,7 @@ I am a developer, a teacher, love to travel, and a cricket🏏 and football⚽ l
 
 
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
 
 <!--
 **GufranBhatti/GufranBhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
