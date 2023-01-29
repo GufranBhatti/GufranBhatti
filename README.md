@@ -1,5 +1,8 @@
-### Hi there, 👋 I am Gufran Bhatti
+### Hi there, 👋 I am Gufran Bhatti.
 I am a developer, a teacher, and a cricket and football lover.
+
+# 🌐 Socials
+
 
 <!--
 **GufranBhatti/GufranBhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
