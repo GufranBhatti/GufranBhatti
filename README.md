@@ -13,7 +13,8 @@ I am a developer, a teacher, love to travel, and a cricket and football lover.
 ,
 # 🌱 I’m currently learning 
 * SQL for data science
-
+* Probability and Statistics (Course in Uni)
+* FYP2
 <!--
 **GufranBhatti/GufranBhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
