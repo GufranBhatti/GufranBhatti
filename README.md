@@ -2,7 +2,7 @@
 #### I am a developer, a teacher, and a cricket and football lover.
 
 # 🌐 Socials
-
+<a href=”https://www.linkedin.com/in/gufran-bhatti-80568822a/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 <!--
 **GufranBhatti/GufranBhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
