@@ -20,6 +20,9 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 * FYP2
 * House Prices - Advanced Regression Techniques (kaggle compitition)
 
+# 📃 Publications
+* Efficient & Sustainable Intrusion Detection System Using Machine Learning & Deep Learning for IoT (https://ieeexplore.ieee.org/document/10099152)
+
 # 💻 Languages and Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
 ![](https://img.shields.io/badge/Lib-Tensorflow-informational?style=flat&logo=Tensorflow&color=E34F26)
