@@ -1,4 +1,3 @@
-![github](https://user-images.githubusercontent.com/58569042/215321193-20815cdc-d2fb-4a75-b708-701be6bd535c.png)
 ![Black Technology LinkedIn Banner](https://github.com/GufranBhatti/GufranBhatti/assets/58569042/1738bf32-d01e-42e9-958f-f24dfd4e13fe)
 
 <h1 align="center">
