@@ -17,7 +17,7 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 * Probability and Statistics (Course in Uni)
 
 # 🔭 I’m currently working on
-* FYP2
+* FYP2 (Deployment of my intrusion detection model and testing it on attack data created by myself)
 * House Prices - Advanced Regression Techniques (kaggle compitition)
 
 # 📃 Publications
