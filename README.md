@@ -23,6 +23,11 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 # 📃 Publications
 * Efficient & Sustainable Intrusion Detection System Using Machine Learning & Deep Learning for IoT (https://ieeexplore.ieee.org/document/10099152)
 
+# 🧾 Certifications
+* Databases and SQL for Data Science with Python (IBM)
+* Machine Learning with Python (freecodecamp)
+* Data Analysis with Python (freecodecamp)
+
 # 💻 Languages and Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
 ![](https://img.shields.io/badge/Lib-Tensorflow-informational?style=flat&logo=Tensorflow&color=E34F26)
