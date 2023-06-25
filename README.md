@@ -13,8 +13,7 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 <a href="https://twitter.com/GufranBhatti"><img align="left" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"  width="21px"/></a>
 ,
 # 🌱 I’m currently learning 
-* Neural Networks and Deep Learning (from DeepLearning.AI)
-* Probability and Statistics (Course in Uni)
+* AI Programming with Python (from Udacity)
 
 # 🔭 I’m currently working on
 * FYP2 (Deployment of my intrusion detection model and testing it on attack data created by myself)
