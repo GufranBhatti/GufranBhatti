@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner](https://github.com/GufranBhatti/GufranBhatti/assets/58569042/1738bf32-d01e-42e9-958f-f24dfd4e13fe)
+![Dark Blue Patterns Real Estate Agency LinkedIn Banner](https://github.com/GufranBhatti/GufranBhatti/assets/58569042/349bf8dc-5617-47d4-9e67-89591c2c41a5)
 
 <h1 align="center">
 Hi there, 👋 I am Gufran Bhatti from (🇵🇰).
