@@ -52,9 +52,9 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 </br>
 
 
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&color=CB3837)
-![](https://img.shields.io/badge/Tools-Zotero-informational?style=flat&logo=Zotero&color=CB3837)
-![](https://img.shields.io/badge/Tools-Canva-informational?style=flat&logo=Canva&color=CB3837)
+![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&color=CB3837)
+![](https://img.shields.io/badge/Tool-Zotero-informational?style=flat&logo=Zotero&color=CB3837)
+![](https://img.shields.io/badge/Tool-Canva-informational?style=flat&logo=Canva&color=CB3837)
 
 
 <!--
