@@ -14,10 +14,10 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 ,
 # 🌱 I’m currently learning 
 * Power Bi tool
-* AI Programming with Python (from Udacity)
+* Python Automation
 
 # 🔭 I’m currently working on
-* FYP2 (Deployment of my intrusion detection model and testing it on attack data created by myself)
+* Creating UI for automation process
 * House Prices - Advanced Regression Techniques (kaggle compitition)
 
 # 📃 Publications
