@@ -14,6 +14,7 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 <a href="https://twitter.com/GufranBhatti"><img align="left" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"  width="21px"/></a>
 ,
 # 🌱 I’m currently learning 
+* GIS (Geographic Information System)
 * Power Bi tool
 * Python Automation
 
