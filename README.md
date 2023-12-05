@@ -20,7 +20,7 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 
 # 🔭 I’m currently working on
 * Creating UI for automation process
-* House Prices - Advanced Regression Techniques (kaggle compitition)
+* Detectron2 for instance segmentation
 
 # 📃 Publications
 * Efficient & Sustainable Intrusion Detection System Using Machine Learning & Deep Learning for IoT (https://ieeexplore.ieee.org/document/10099152)
