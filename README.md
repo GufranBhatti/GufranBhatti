@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<a href="https://portfolio-gufran.streamlit.app/">
+<a href="https://portfolio-gufran.streamlit.app/" target="_blank" style="text-decoration: none; color: black;">
   Hi there, 👋 I am Gufran Bhatti from (🇵🇰).
 </a>
 </h1>
