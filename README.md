@@ -1,4 +1,4 @@
-![Dark Blue Patterns Real Estate Agency LinkedIn Banner](https://github.com/GufranBhatti/GufranBhatti/assets/58569042/b9ed7534-d731-4b66-b82a-3dc7cf426aaf) (https://portfolio-gufran.streamlit.app/)
+![Dark Blue Patterns Real Estate Agency LinkedIn Banner](https://github.com/GufranBhatti/GufranBhatti/assets/58569042/b9ed7534-d731-4b66-b82a-3dc7cf426aaf)
 
 
 <h1 align="center">
