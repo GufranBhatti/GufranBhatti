@@ -8,6 +8,7 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 
 # 👀Portfolio
 🌐 Website link: https://portfolio-gufran.streamlit.app/
+🔗 GitHub Repository: https://github.com/GufranBhatti/Portfolio
 
 # 🌐 Socials
 <a href="https://www.linkedin.com/in/gufran-bhatti-80568822a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Gufran Bhatti | LinkedIn" width="21px"/></a>
