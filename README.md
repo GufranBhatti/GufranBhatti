@@ -7,7 +7,7 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 </h4> 
 
 # 👀Portfolio
-🌐 Website link: https://portfolio-gufran.streamlit.app/
+🌐 Website link: https://portfolio-gufran.streamlit.app/  
 🔗 GitHub Repository: https://github.com/GufranBhatti/Portfolio
 
 # 🌐 Socials
