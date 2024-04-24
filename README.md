@@ -57,7 +57,7 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 </br>
 
 
-![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&color=CB3837)
+![](https://img.shields.io/badge/Tool-PowerBi-informational?style=flat&logo=PowerBi&color=CB3837)
 ![](https://img.shields.io/badge/Tool-Zotero-informational?style=flat&logo=Zotero&color=CB3837)
 ![](https://img.shields.io/badge/Tool-Canva-informational?style=flat&logo=Canva&color=CB3837)
 ![](https://img.shields.io/badge/Tool-ArcGIS-informational?style=flat&logo=ArcGIS&color=CB3837)
