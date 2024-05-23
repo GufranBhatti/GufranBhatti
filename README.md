@@ -28,6 +28,7 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 * Efficient & Sustainable Intrusion Detection System Using Machine Learning & Deep Learning for IoT (https://ieeexplore.ieee.org/document/10099152)
 
 # 🧾 Certifications
+* Data Analysis and Visualization with Power BI
 * Data Modeling in Power BI
 * Extract, Transform and Load Data in Power BI
 * AI Programming with Python (Udacity Nano-Degree)
