@@ -1,5 +1,5 @@
-[![Dark Blue Patterns Real Estate Agency LinkedIn Banner](https://github.com/user-attachments/assets/98881cd5-abba-4c94-acca-5bf555c080fe)](https://portfolio-gufran.streamlit.app/)
-<img width="2000" height="600" alt="Dark Blue Patterns Real Estate Agency LinkedIn Banner" src="https://github.com/user-attachments/assets/5c360dbc-c535-4322-a26a-f7ae76db2161" />
+<img width="2000" height="600" alt="Dark Blue Patterns Real Estate Agency LinkedIn Banner" src="https://github.com/user-attachments/assets/5c360dbc-c535-4322-a26a-f7ae76db2161" />(https://portfolio-gufran.streamlit.app/)
+
 
 <h1 align="center">
   Hi there, 👋 I am Gufran Bhatti from (🇵🇰).
