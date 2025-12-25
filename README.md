@@ -1,4 +1,4 @@
-[<img width="2000" height="600" alt="Dark Blue Patterns Real Estate Agency LinkedIn Banner" src="https://github.com/user-attachments/assets/5c360dbc-c535-4322-a26a-f7ae76db2161" />](https://portfolio-gufran.streamlit.app/)
+[<img width="2000" height="600" alt="Dark Blue Patterns Real Estate Agency LinkedIn Banner" src="https://github.com/user-attachments/assets/5c360dbc-c535-4322-a26a-f7ae76db2161" />](https://gufranbhatti.github.io/)
 
 
 <h1 align="center">
@@ -9,8 +9,8 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 </h4> 
 
 # 👀Portfolio
-🌐 Website link: https://portfolio-gufran.streamlit.app/  
-🔗 GitHub Repository: https://github.com/GufranBhatti/Portfolio
+🌐 Website link: https://gufranbhatti.github.io/  
+🔗 GitHub Repository: https://github.com/GufranBhatti/GufranBhatti.github.io
 
 # 🌐 Socials
 <a href="https://www.linkedin.com/in/gufran-bhatti-80568822a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Gufran Bhatti | LinkedIn" width="21px"/></a>
