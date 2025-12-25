@@ -18,14 +18,13 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 <a href="https://twitter.com/GufranBhatti"><img align="left" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"  width="21px"/></a>
 .  
 # 🌱 I’m currently learning 
-* GIS (Geographic Information System)
-* Power Bi tool
 * Python Automation
 * Computer Vision
+* n8n Workflow
 
 # 🔭 I’m currently working on
-* Creating UI for automation process
-* Detectron2 for instance segmentation
+* Rag-Chatbots
+* Social Media posting workflows
 
 # 📃 Publications
 * Efficient & Sustainable Intrusion Detection System Using Machine Learning & Deep Learning for IoT (https://ieeexplore.ieee.org/document/10099152)
