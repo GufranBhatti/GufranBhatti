@@ -45,30 +45,9 @@ I am an AI Engineer specializing in **LLMs, RAG pipelines, Agentic workflows (Cr
 
 # 💻 Languages and Tools
 
-**AI, ML & Data Science** ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![](https://img.shields.io/badge/HuggingFace-F9AB00?style=flat&logo=huggingface&logoColor=white)
-![](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-**Backend, DB & Automation** ![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
-
-**Other Languages & Tools** ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![](https://img.shields.io/badge/ArcGIS-005E95?style=flat&logo=arcgis&logoColor=white)
-
-<br>
-
-**IDE Environment** ![](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI, ML & Data Science** | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![](https://img.shields.io/badge/HuggingFace-F9AB00?style=flat&logo=huggingface&logoColor=white) ![](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| **Backend, DB & Automation** | ![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white) |
+| **Other Languages & Tools**| ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) ![](https://img.shields.io/badge/ArcGIS-005E95?style=flat&logo=arcgis&logoColor=white) |
+| **IDE Environment** | ![](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![](https://img.shields.io/badge/Antigravity-8A2BE2?style=flat&logo=python&logoColor=white) |
