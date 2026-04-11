@@ -1,14 +1,18 @@
 [<img width="2000" height="600" alt="Dark Blue Patterns Real Estate Agency LinkedIn Banner" src="https://github.com/user-attachments/assets/5c360dbc-c535-4322-a26a-f7ae76db2161" />](https://gufranbhatti.github.io/)
 
-
 <h1 align="center">
-  Hi there, 👋 I am Gufran Bhatti from (🇵🇰).
+  Hi there, 👋 I am Gufran Bhatti from (🇵🇰)
 </h1>
-<h4 align = "center">
-I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket🏏 and football⚽ lover.
+<h4 align="center">
+  AI Engineer 🤖 | Full-Stack Developer 💻 | Tech Educator 👨‍🏫 | Cricket 🏏 & Football ⚽ Lover
 </h4> 
 
-# 👀Portfolio
+---
+
+### 🚀 About Me
+I am an AI Engineer specializing in **LLMs, RAG pipelines, Agentic workflows (CrewAI, LangChain)**, and **Computer Vision**. I have a proven track record of bridging the gap between advanced deep learning models and scalable, business-driven architectures. From automating complex enterprise workflows to deploying real-time pose estimation systems, I build intelligent solutions that solve real-world challenges.
+
+# 👀 Portfolio
 🌐 Website link: https://gufranbhatti.github.io/  
 🔗 GitHub Repository: https://github.com/GufranBhatti/GufranBhatti.github.io
 
@@ -16,72 +20,55 @@ I am a developer💻, a teacher👨‍🏫, love to travel🌍, and a cricket�
 <a href="https://www.linkedin.com/in/gufran-bhatti-80568822a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Gufran Bhatti | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/gufran_bhatti/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Gufran Bhatti | Instagram" width="21px"/></a>
 <a href="https://twitter.com/GufranBhatti"><img align="left" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg"  width="21px"/></a>
-.  
-# 🌱 I’m currently learning 
-* Python Automation
-* Computer Vision
-* n8n Workflow
+<br><br>
 
 # 🔭 I’m currently working on
-* Rag-Chatbots
-* Social Media posting workflows
+* Architecting multi-agent orchestration systems using **CrewAI** and **LangChain**.
+* Developing enterprise-grade, workspace-aware **RAG Chatbots** with strict security guardrails.
+* Fine-tuning Computer Vision models (**YOLOv8, SAM**) for geospatial analytics and real-time object recognition.
+* Orchestrating end-to-end automation pipelines using **n8n** and Python.
+
+# 🌱 I’m currently exploring 
+* Advanced Cloud Inference (DeepInfra)
+* Open-source LLM optimization (Llama 3.2, MistralAI)
+* Next-gen image/video generation pipelines (Flux1, StableDiffusion)
 
 # 📃 Publications
-* Efficient & Sustainable Intrusion Detection System Using Machine Learning & Deep Learning for IoT (https://ieeexplore.ieee.org/document/10099152)
+* [Efficient & Sustainable Intrusion Detection System Using Machine Learning & Deep Learning for IoT (IEEE)](https://ieeexplore.ieee.org/document/10099152)
 
 # 🧾 Certifications
-* Data Analysis and Visualization with Power BI
-* Data Modeling in Power BI
-* Extract, Transform and Load Data in Power BI
-* AI Programming with Python (Udacity Nano-Degree)
-* Databases and SQL for Data Science with Python (Coursera)
-* Neural Networks and Deep Learning (Coursera)
-* Machine Learning with Python (freecodecamp)
-* Data Analysis with Python (freecodecamp)
+* **Data Analysis, Data Modeling, and ETL with Power BI** (Microsoft)
+* **AI Programming with Python** (Udacity Nano-Degree)
+* **Neural Networks and Deep Learning** (Coursera)
+* **Databases and SQL for Data Science with Python** (Coursera)
+* **Machine Learning & Data Analysis with Python** (freeCodeCamp)
 
 # 💻 Languages and Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
-![](https://img.shields.io/badge/Lib-Tensorflow-informational?style=flat&logo=Tensorflow&color=E34F26)
-![](https://img.shields.io/badge/Lib-ScikitLearn-informational?style=flat&logo=ScikitLearn&color=E34F26)
-![](https://img.shields.io/badge/Lib-Streamlit-informational?style=flat&logo=Streamlit&color=E34F26)
-![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=Pandas&color=E34F26)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&color=764ABC)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=F7DF1E)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&color=CC342D)
 
-</br>
+**AI, ML & Data Science** ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![](https://img.shields.io/badge/HuggingFace-F9AB00?style=flat&logo=huggingface&logoColor=white)
+![](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-![](https://img.shields.io/badge/IDE-JupyterNotebook-informational?style=flat&logo=JupyterNotebook&color=CC0000)
-![](https://img.shields.io/badge/IDE-DataSpell-informational?style=flat&logo=DataSpell&color=336791)
-![](https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=VisualStudio&color=7952B3)
-![](https://img.shields.io/badge/IDE-VisualStudioCode-informational?style=flat&logo=VisualStudioCode&color=1572B6)
-![](https://img.shields.io/badge/IDE-intelliJ-informational?style=flat&logo=intelliJ&color=DB7093)
-![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=Pycharm&color=003B57)
+**Backend, DB & Automation** ![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
 
+**Other Languages & Tools** ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![](https://img.shields.io/badge/ArcGIS-005E95?style=flat&logo=arcgis&logoColor=white)
 
-</br>
+<br>
 
-
-![](https://img.shields.io/badge/Tool-PowerBi-informational?style=flat&logo=PowerBi&color=CB3837)
-![](https://img.shields.io/badge/Tool-GitExtensions-informational?style=flat&logo=GitExtensions&color=CB3837)
-![](https://img.shields.io/badge/Tool-Zotero-informational?style=flat&logo=Zotero&color=CB3837)
-![](https://img.shields.io/badge/Tool-Canva-informational?style=flat&logo=Canva&color=CB3837)
-![](https://img.shields.io/badge/Tool-ArcGIS-informational?style=flat&logo=ArcGIS&color=CB3837)
-![](https://img.shields.io/badge/Tool-ArcMap-informational?style=flat&logo=ArcMap&color=CB3837)
-![](https://img.shields.io/badge/Tool-GlobalMapper-informational?style=flat&logo=GlobalMapper&color=CB3837)
-
-
-<!--
-**GufranBhatti/GufranBhatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**IDE Environment** ![](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
