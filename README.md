@@ -10,7 +10,9 @@
 ---
 
 ### 🚀 About Me
-I am an AI Engineer specializing in **LLMs, RAG pipelines, Agentic workflows (CrewAI, LangChain)**, and **Computer Vision**. I have a proven track record of bridging the gap between advanced deep learning models and scalable, business-driven architectures. From automating complex enterprise workflows to deploying real-time pose estimation systems, I build intelligent solutions that solve real-world challenges.
+I am a Senior Full-Stack Developer & AI Engineer based in Karachi, PK, with a deep passion for building robust and intelligent applications. Currently at The Intelligenz, I design enterprise full-stack systems, seamless frontends, and integrate powerful AI workflows.
+
+My journey began with a strong foundation in Computer Science from PAF KIET University, leading to impactful roles where I've deployed AI chatbots, built cross-platform mobile apps, and optimized large-scale databases. I thrive on solving real-world problems using modern frameworks like React and Laravel, responsive mobile technologies, and cutting-edge AI integrations.
 
 # 👀 Portfolio
 🌐 Website link: https://gufranbhatti.github.io/  
