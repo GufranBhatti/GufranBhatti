@@ -16,7 +16,7 @@ I am a Senior Full-Stack Developer & AI Engineer based in Karachi, PK, with a de
 My journey began with a strong foundation in Computer Science from PAF KIET University, leading to impactful roles where I've deployed AI chatbots, built cross-platform mobile apps, and optimized large-scale databases. I thrive on solving real-world problems using modern frameworks like React and Laravel, responsive mobile technologies, and cutting-edge AI integrations.
 
 # 👀 Portfolio
-🌐 Website link: https://gufran-bhatti.vercel.app/
+🌐 Website link: https://gufran-bhatti.vercel.app/ 
 🔗 GitHub Repository: https://github.com/GufranBhatti/portfolio_v3.0
 
 # 🌐 Socials
