@@ -1,5 +1,5 @@
 [<img width="2000" height="600" alt="linkedin_cover" src="https://github.com/user-attachments/assets/296ba3d4-6a62-46da-923d-0db457b6836c" />
-](https://gufranbhatti.github.io/)
+](https://gufran-bhatti.vercel.app/)
 
 <h1 align="center">
   Hi there, 👋 I am Gufran Bhatti from (🇵🇰)
@@ -16,8 +16,8 @@ I am a Senior Full-Stack Developer & AI Engineer based in Karachi, PK, with a de
 My journey began with a strong foundation in Computer Science from PAF KIET University, leading to impactful roles where I've deployed AI chatbots, built cross-platform mobile apps, and optimized large-scale databases. I thrive on solving real-world problems using modern frameworks like React and Laravel, responsive mobile technologies, and cutting-edge AI integrations.
 
 # 👀 Portfolio
-🌐 Website link: https://gufranbhatti.github.io/  
-🔗 GitHub Repository: https://github.com/GufranBhatti/GufranBhatti.github.io
+🌐 Website link: https://gufran-bhatti.vercel.app/
+🔗 GitHub Repository: https://github.com/GufranBhatti/portfolio_v3.0
 
 # 🌐 Socials
 <a href="https://www.linkedin.com/in/gufran-bhatti-80568822a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Gufran Bhatti | LinkedIn" width="21px"/></a>
